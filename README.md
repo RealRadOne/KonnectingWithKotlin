@@ -1,2 +1,2 @@
 # KonnectingWithKotlin
-Small CRUD Web Application in Kotlin with MongoDB(Experimental)
+Small CRUD Application in Kotlin with MongoDB(Experimental)
